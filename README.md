@@ -1,6 +1,6 @@
-# Image-collecter
+# icra-collecter
 
-**Image-collecter** とは、[Python](https://www.python.org/)のpipである[icrawler](https://icrawler.readthedocs.io/en/latest/)を使用して任意の画像を収集するプログラムです。  
+**icra-collecter** とは、[Python](https://www.python.org/)のpipである[icrawler](https://icrawler.readthedocs.io/en/latest/)を使用して任意の画像を収集するプログラムです。  
 
 ## Windowsの環境でしか試せていません。ごめんなさい
 
