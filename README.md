@@ -54,7 +54,7 @@ pip install icrawler
 先ほどの物を入れた環境でgit などして獲得
 
 ```bash
-git clone https://github.com/～
+https://github.com/chiseno/Image-collecter.git
 ```
 
 Python に続けて **Bing_Ver.py** or **Google_Ver.py** をDDして実行！！！
