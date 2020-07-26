@@ -65,4 +65,4 @@ Python C:\Users\~~~~\Bing_Ver.py  or  Google_Ver.py
 
 # Note
 
-**Google_Ver.py**はpipのicrawlerを入れただけでは使えないはずなので、[こちらの記事](https://qiita.com/Yossy_Hal/items/48f43a477d9cdd2af40a)を参考にしてicrawlerのgoogle.pyを書き換えてあげてください。
+**Google_Ver.py**はpipのicrawlerを入れただけでは使えないはずなので、icrawlerのgoogle.pyを少し書き換えてあげてください。
