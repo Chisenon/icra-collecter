@@ -25,7 +25,7 @@
    [None,small,medium,large]の４種類
 
 
-![interface](https://user-images.githubusercontent.com/55323475/88474999-fe670680-cf66-11ea-9c03-947951034714.png)
+![inter](https://user-images.githubusercontent.com/55323475/88475969-99fc7500-cf6f-11ea-9137-d2ac59d52196.png)
 
 # 環境
 
