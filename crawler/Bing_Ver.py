@@ -36,7 +36,7 @@ def pring():
     else :
       filters = None
     crawler.crawl(keyword=picture_name.get(),filters=filters,offset=0, max_num=int(picture_num.get()))
-    res = messagebox.askokcancel('finished!!!', 'Reset input, but check folder?')
+    res = messagebox.askokcancel('finished!!!', 'Reset imput, but check folder?')
     folder_name.delete(0,"end")
     picture_name.delete(0,"end")
     picture_num.delete(0,"end")
