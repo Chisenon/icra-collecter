@@ -1,8 +1,11 @@
 # icra-collecter
 
 **icra-collecter** とは、[Python](https://www.python.org/)のpipである[icrawler](https://icrawler.readthedocs.io/en/latest/)を使用して任意の画像を収集するプログラムです。  
+機械学習のテストにでも使ってください。
 
 ## Windowsの環境でしか試せていません。ごめんなさい
+
+## 欠陥だらけです...
 
 # 説明
 * 内容物 (画像収集機 Bing_Ver & Google_Ver)
@@ -63,6 +66,6 @@ Python に続けて **Bing_Ver.py** or **Google_Ver.py** をDDして実行！！
 Python C:\Users\~~~~\Bing_Ver.py  or  Google_Ver.py
 ```
 
-# Note
-
+# 注意！！！
+画像枚数が多くなればなるほど、違う画像が出てきてしまいます（超欠陥！！！）  
 **Google_Ver.py**はpipのicrawlerを入れただけでは使えないはずなので、icrawlerのgoogle.pyを少し書き換えてあげてください。
