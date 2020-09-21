@@ -48,7 +48,7 @@
 pip install icrawler
 ```
 
-とりあえずこれで動く  
+とりあえずこれで**Bing_Ver.py**は動く  
 ##### 多分...
 
 # 動作方法
