@@ -67,7 +67,11 @@ Python C:\Users\~~~~\Bing_Ver.py  or  Google_Ver.py
 
 
 # 注意！！！
-画像枚数が多くなればなるほど、違う画像が出てきてしまいます（超欠陥！！！）  
-**Google_Ver.py**はpipのicrawlerをインストールしただけでは使えないはずなので（Googleとの相性問題）、[ここのサイト](https://github.com/hellock/icrawler/issues/65)を参考にしてpipであるicrawler本体のコードを少し書き換えてあげてください。
+画像枚数が多くなればなるほど、違う画像が出てきてしまいます（超欠陥！！！） 
+<br>
+**Google_Ver.py**はpipでicrawlerをインストールしただけでは使えない(2021/4月現在)ので（Googleとの相性問題）、[ここのサイト](https://github.com/hellock/icrawler/issues/65)を参考にしてpipであるicrawler本体のコードを少し書き換えてあげてください。
 
-### 初心者作品ですが、ここまで読んでいただきありがとうございます。
+# 質問や苦情などはいつでもよろしくお願いします。
+Twitter : @twin_Chisenon
+
+### 初心者作品ですが、ありがとうございました。
