@@ -71,7 +71,7 @@ Python C:\Users\~~~~\Bing_Ver.py  or  Google_Ver.py
 <br>
 **Google_Ver.py**はpipでicrawlerをインストールしただけでは使えない(2021/4月現在)ので（Googleとの相性問題）、[ここのサイト](https://github.com/hellock/icrawler/issues/65)を参考にしてpipであるicrawler本体のコードを少し書き換えてあげてください。
 
-# 質問や苦情などはいつでもよろしくお願いします。
+# 質問や苦情などはこちらに...
 Twitter : @twin_Chisenon
 
 ### 初心者作品ですが、ありがとうございました。
